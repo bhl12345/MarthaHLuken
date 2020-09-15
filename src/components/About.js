@@ -30,7 +30,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta"></span>
-                <h2 className="colorlib-heading"></h2>
+                <h2 className="colorlib-heading">Text</h2>
             </div>
             </div>
             <div className="row row-pt-md">
