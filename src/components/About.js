@@ -40,7 +40,7 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3> </h3>
+                    <h3> Text </h3>
                     <p>  </p>
                 </div>
                 </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                     <i className="icon-monitor" />
                 </span>
                 <div className="desc">
-                    <h3> </h3>
+                    <h3> Text </h3>
                     <p>  </p>
                 </div>
                 </div>
@@ -62,7 +62,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3> </h3>
+                    <h3> Text </h3>
                     <p>  </p>
                 </div>
                 </div>

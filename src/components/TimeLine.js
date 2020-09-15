@@ -24,7 +24,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>  <span> </span></h2>
+                        <h2> Text <span>Text </span></h2>
                         <p>  
                             <ul>
                         	<br></br>
